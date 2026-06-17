@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d90009d-96e5-4e2d-9376-c56755208e1b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FastAPI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5013284475240904" />
+      <entry key="MS500" value="2.384697304827147" />
+      <entry key="S2" value="2.814562346432732" />
+      <entry key="S5" value="2.9228146142883524" />
+      <entry key="S10" value="2.960885670650695" />
+      <entry key="S30" value="3.003277903958209" />
+      <entry key="S60" value="3.268064435374063" />
+      <entry key="M2" value="4.762199867524094" />
+      <entry key="M5" value="11.69967292768176" />
+      <entry key="M10" value="19.687320351128836" />
+      <entry key="M15" value="24.01823015825312" />
+      <entry key="M30" value="29.64759497591459" />
+      <entry key="H1" value="33.07669273206872" />
+      <entry key="H2" value="34.9720705704508" />
+      <entry key="H4" value="35.96886656743353" />
+      <entry key="D1" value="36.82570713711837" />
+      <entry key="W1" value="36.97504063026529" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.3449396681219025E-133" />
+      <entry key="S5" value="1.3782962761988088E-53" />
+      <entry key="S10" value="4.946062638278643E-27" />
+      <entry key="S30" value="2.664579832813042E-9" />
+      <entry key="S60" value="7.286122589547972E-5" />
+      <entry key="M2" value="0.01206574966925821" />
+      <entry key="M5" value="0.25893427172522143" />
+      <entry key="M10" value="0.7196169759207872" />
+      <entry key="M15" value="1.0117558852854616" />
+      <entry key="M30" value="1.4224988956379656" />
+      <entry key="H1" value="1.686711222012227" />
+      <entry key="H2" value="1.8366876548382487" />
+      <entry key="H4" value="1.9166050881611851" />
+      <entry key="D1" value="1.9858530145955011" />
+      <entry key="W1" value="1.997972848245092" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3687448235516118" />
+      <entry key="MS500" value="2.3376445204559047" />
+      <entry key="S2" value="2.8005884271845933" />
+      <entry key="S5" value="2.9170075990121473" />
+      <entry key="S10" value="2.9579440736794864" />
+      <entry key="S30" value="3.001993961205447" />
+      <entry key="S60" value="3.2656290809030653" />
+      <entry key="M2" value="4.768181200717329" />
+      <entry key="M5" value="11.94628781453876" />
+      <entry key="M10" value="20.394613715950058" />
+      <entry key="M15" value="25.019469026665003" />
+      <entry key="M30" value="31.063313362953288" />
+      <entry key="H1" value="34.75954422480488" />
+      <entry key="H2" value="36.80669778601205" />
+      <entry key="H4" value="37.88440699139464" />
+      <entry key="D1" value="38.811377763333155" />
+      <entry key="W1" value="38.97298729979743" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FE1I7GwJAAe3q8VnUVNDG3KLnR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/SAURAF KUMAR/Desktop/youtude/FastAPI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FastAPI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d90009d-96e5-4e2d-9376-c56755208e1b" name="Changes" comment="" />
+      <created>1781625332425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781625332425</updated>
+      <workItem from="1781625333884" duration="1374000" />
+      <workItem from="1781715207717" duration="997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
